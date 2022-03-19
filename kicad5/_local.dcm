@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AQM1602Y
+D Xiamen Zettler Electronics AQM1602Y LCD module
+K Xiamen Zettler Electronics AQM1602Y LCD module Akizuki
+$ENDCMP
+#
+$CMP NJM2125F
+D Low Power Single Operational Amplifier, SOT-23-5
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lm321.pdf
+$ENDCMP
+#
+#End Doc Library
